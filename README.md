@@ -1,1 +1,1 @@
-# tasks-7.2-homework
+goit-js-hw-08-gallery
